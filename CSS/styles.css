@@ -1,0 +1,442 @@
+/***********
+   MAIN
+***********/
+
+body {
+    background-color: #e9d8a6;
+    font-family: 'Nunito', sans-serif;
+
+}
+
+.main-content {
+    max-width: 60em;
+    margin: auto;
+    background-color: #fefae0;
+}
+
+/**************
+   NAVIGATION
+***************/
+
+.top-nav {
+    overflow: hidden;
+    border-bottom: none;
+    display: flexbox;
+}
+
+.top-nav a {
+    float: left;
+    text-align: center;
+    padding: 10px;
+}
+
+#newsletterButton {
+    float: right;
+    margin-top: 6px;
+    background-color: #9b2226;
+    color: whitesmoke;
+    border-radius: 6px;
+    padding: 3px;
+}
+
+#newsletterButton:hover {
+    border: solid #9b2226 1px;
+    background-color: whitesmoke;
+    color: #9b2226;
+}
+
+#topRightNav a {
+    float: right;
+    margin-top: 6px;
+    margin-right: 3px;
+}
+
+#newsletterForm {
+    float: right;
+}
+
+#newsletterSubmit {
+    margin-top: 6px;
+    background-color: #9b2226;
+    color: whitesmoke;
+    border-radius: 6px;
+}
+
+#newsletterSubmit:hover {
+    border: solid #9b2226 1px;
+    background-color: whitesmoke;
+    color: #9b2226;
+}
+
+.navbar {
+    color: #fefae0;
+    background-color: #9b2226;
+}
+
+.navbar-nav {
+    margin: auto;
+}
+
+.nav-item {
+    padding: .5em;
+}
+
+.nav-item a {
+    color: white;
+}
+
+.nav-item:hover {
+    background-color: #dda15e;
+}
+
+#eventMenuItem {
+    color: black;
+}
+
+#navbarDropdown {
+    color: white;
+}
+
+#navbarDropdown:hover {
+    border-bottom: solid white 1px;
+}
+
+#navigationLink {
+    color: white;
+}
+
+#navigationLink:hover {
+    border-bottom: solid white 1px;
+}
+
+/*******************
+     HOME
+*******************/
+
+.about-us {
+    padding: 12px;
+}
+
+#turkey-pic img {
+    width: 100%;
+    height: auto;
+    padding-top: 10px;
+}
+
+#stackedPics {
+    height: 100%;
+    width: 100%;
+    padding: 10px 0px 0px;
+}
+
+#stackedPics .row {
+    height: 100%;
+    width: 100%;
+    padding: 0px;
+}
+
+#stackedPics .col-12 {
+    padding: 0px;
+}
+
+#stacked-pics img {
+    width: 100%;
+    height: 100%;
+    object-fit: fill;
+}
+
+#clickAnchor {
+    color: #9b2226;
+}
+
+#clickAnchor:hover {
+    color:#dda15e
+}
+/***********************
+    ABOUT US
+***********************/
+
+.mission-state {
+    padding: 4em;
+}
+
+.overview-state {
+    margin-left: 4em;
+    padding-bottom: .75em;
+}
+
+#stacked-pics-about {
+    padding-top: 10px;
+}
+
+
+/********************
+    EVENTS INFO
+********************/
+
+#event-state {
+    padding: 2em;
+}
+
+#event-head {
+    padding-top: .5em;
+    margin-left: .5em;
+}
+
+#event-state .event-list {
+    padding: 1.2em;
+    border-bottom: dashed #9b2226 1px;
+    border-left: dashed #9b2226 1px;
+}
+
+/********************
+    HOW TO HELP
+********************/
+
+#help-state {
+    padding: 1em;
+}
+
+.volunteer_head {
+    padding: .25em;
+}
+
+.volunteer_form {
+    padding: .75em;
+}
+
+.volunteer_input .col-sm-4 {
+    padding: .3em;
+}
+
+.volunteer_input .col-sm-8 {
+    padding: .3em;
+}
+
+.volunteer_input {
+    text-align: center;
+}
+
+.volunteer_form .btn {
+    background-color: #9b2226;
+    color: whitesmoke;
+    border-radius: 6px;
+}
+
+.volunteer_form .btn:hover {
+    border: solid #9b2226 1px;
+    background-color: whitesmoke;
+    color: #9b2226;
+}
+
+#donate {
+    text-align: center;
+}
+
+#donateBtn {
+    font-size: 30px;
+    background-color: #9b2226;
+    color: whitesmoke;
+    border-radius: 6px;
+}
+
+#donateBtn:hover {
+    border: solid #9b2226 1px;
+    background-color: whitesmoke;
+    color: #9b2226;
+}
+
+#donate img {
+    width: 100%;
+    height: auto;
+    padding: 3em;
+}
+
+#thankyouHeader {
+    text-align: center;
+    padding-top: 3em;
+}
+
+#thankyouMessage {
+    text-align: center;
+    padding-top: 5px;
+}
+
+/********************
+    CONTRIBUTORS
+********************/
+
+.contributorPageContainer h2 {
+    padding-top: .4em;
+    padding-bottom: .3em;
+}
+
+#contributorDiv {
+    padding: .5em;
+    text-align: center;
+}
+
+#contributorDiv:hover {
+    border: solid #7c1216 .5px;
+    border-radius: 5px;
+}
+
+.contributorLink {
+	font-family: 'Josefin Slab', Arial;
+	color: #7c1216;
+	text-decoration: none;
+}
+
+.contributorLink:hover {
+	font-family: 'Josefin Slab', Arial;
+    font-size: 17px;
+	color: #e35503;
+	text-decoration: underline;
+}
+
+/**************************
+    DONATION LOCATIONS
+**************************/
+
+.countyContainer h2 {
+    padding-top: .4em;
+    padding-bottom: .3em;
+}
+
+#donation-location:hover {
+    border: solid #7c1216 .5px;
+    border-radius: 5px;
+}
+
+/********************
+    CONTACT US
+********************/
+
+.contact_head {
+    padding-left: 3em;
+    padding-top: .3em;
+}
+
+.contactContainer .col-sm-4 {
+    padding: .3em;
+}
+
+.contactContainer .col-sm-8 {
+    padding: .3em;
+}
+
+.contactContainer {
+    text-align: center;
+}
+
+.contactForm {
+    margin-top: 1.5em;
+}
+
+.contactContainer .btn {
+    background-color: #9b2226;
+    color: whitesmoke;
+    border-radius: 6px;
+    margin-bottom: .5em;
+}
+
+.contactContainer .btn:hover {
+    border: solid #9b2226 1px;
+    background-color: whitesmoke;
+    color: #9b2226;
+}
+
+/*********************
+    EVENT PHOTOS
+*********************/
+
+.wrapper {
+    background-color: white;
+}
+
+.gallery img {
+    width: 100%;
+    height: auto;
+    object-fit: contain;
+    padding-bottom: 5px;
+}
+
+.gallery img:hover {
+    transform: scale(1.1, 1.1);
+} 
+
+.photoButton {
+    background-color: #e9d8a6;
+    color: black;
+    border-radius: 6px;
+    border: none;
+    width: 100%;
+    font-size: large;
+}
+
+.photoButton:hover {
+    border: solid #9b2226 1px;
+    background-color: whitesmoke;
+    color: #9b2226;
+}
+
+#photoGalleryContainer .col-md-4 {
+    padding: 5px;
+    text-align: center;
+}
+
+.galleryHeader {
+    padding: 5px;
+}
+
+#photoHeader {
+    padding: 5px;
+}
+
+#closeBtn {
+    width: 40%;
+    height: 40%;
+    float: right;
+}
+
+#prevBtn {
+    width: 75%;
+    height: 50%;
+    float: left;
+    padding: 5px;
+    transform: none;
+}
+
+#nextBtn {
+    width: 75%;
+    height: 50%;
+    float: right;
+    transform: none;
+}
+
+#imageViewPhoto:hover {
+    transform: none;
+}
+
+.gallery .col-2 {
+    border: solid #7c1216 1px;
+    border-radius: 8px;
+    
+}
+
+#imageViewHeader {
+    font-size: 20px;
+}
+
+
+/********************
+    FOOTER
+********************/
+
+.main-content .copyright {
+    font-size: 8px;
+    padding: 0;
+    object-fit: fill;
+    background-color: #7c1216;
+    color: #fefae0;
+}
