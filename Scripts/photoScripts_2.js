@@ -442,12 +442,274 @@ const allPhotos = [
         'golf_outing_21_(7).jpg',
         'golf_outing_21_(8).jpg',
         'golf_outing_21_(9).jpg'
-    ]
+    ],
+    [
+        "2022 Danas Golf Outing",
+        "NashotahTC9-22081.JPG",
+        "NashotahTC9-22082.JPG",
+        "NashotahTC9-22084.JPG",
+        "NashotahTC9-22087.JPG",
+        "NashotahTC9-22088.JPG",
+        "NashotahTC9-22089.JPG",
+        "NashotahTC9-22091.JPG",
+        "NashotahTC9-22094.JPG",
+        "NashotahTC9-22097.JPG",
+        "NashotahTC9-22098.JPG",
+        "NashotahTC9-22099.JPG",
+        "NashotahTC9-22103.JPG",
+        "NashotahTC9-22104.JPG",
+        "NashotahTC9-22105.JPG",
+        "NashotahTC9-22106.JPG",
+        "NashotahTC9-22107.JPG",
+        "NashotahTC9-22110.JPG",
+        "NashotahTC9-22111.JPG",
+        "NashotahTC9-22114.JPG",
+        "NashotahTC9-22116.JPG",
+        "NashotahTC9-22117.JPG",
+        "NashotahTC9-22118.JPG",
+        "NashotahTC9-22121.JPG",
+        "NashotahTC9-22122.JPG",
+        "NashotahTC9-22123.JPG",
+        "NashotahTC9-22124.JPG",
+        "NashotahTC9-22125.JPG",
+        "NashotahTC9-22126.JPG",
+        "NashotahTC9-22127.JPG",
+        "NashotahTC9-22128.JPG",
+        "NashotahTC9-22130.JPG",
+        "NashotahTC9-22131.JPG",
+        "NashotahTC9-22132.JPG",
+        "NashotahTC9-22133.JPG",
+        "NashotahTC9-22134.JPG",
+        "NashotahTC9-22135.JPG",
+        "NashotahTC9-22136.JPG",
+        "NashotahTC9-22137.JPG",
+        "NashotahTC9-22138.JPG",
+        "NashotahTC9-22139.JPG",
+        "NashotahTC9-22140.JPG",
+        "NashotahTC9-22141.JPG",
+        "NashotahTC9-22143.JPG",
+        "NashotahTC9-22144.JPG",
+        "NashotahTC9-22147.JPG",
+        "NashotahTC9-22150.JPG",
+        "NashotahTC9-22153.JPG",
+        "NashotahTC9-22154.JPG",
+        "NashotahTC9-22155.JPG",
+        "NashotahTC9-22156.JPG",
+        "NashotahTC9-22159.JPG",
+        "NashotahTC9-22165.JPG",
+        "NashotahTC9-22166.JPG",
+        "NashotahTC9-22167.JPG",
+        "NashotahTC9-22168.JPG",
+        "NashotahTC9-22169.JPG",
+        "NashotahTC9-22172.JPG",
+        "NashotahTC9-22173.JPG",
+        "NashotahTC9-22174.JPG",
+        "NashotahTC9-22176.JPG",
+        "NashotahTC9-22177.JPG",
+        "NashotahTC9-22178.JPG",
+        "NashotahTC9-22180.JPG",
+        "NashotahTC9-22182.JPG",
+        "NashotahTC9-22183.JPG",
+        "NashotahTC9-22185.JPG",
+        "NashotahTC9-22189.JPG",
+        "NashotahTC9-22190.JPG",
+        "NashotahTC9-22193.JPG",
+        "NashotahTC9-22194.JPG",
+        "NashotahTC9-22195.JPG",
+        "NashotahTC9-22196.JPG",
+        "NashotahTC9-22199.JPG",
+        "NashotahTC9-22200.JPG",
+        "NashotahTC9-22201.JPG",
+        "NashotahTC9-22202.JPG",
+        "NashotahTC9-22203.JPG",
+        "NashotahTC9-22205.JPG",
+        "NashotahTC9-22206.JPG",
+        "NashotahTC9-22207.JPG",
+        "NashotahTC9-22208.JPG",
+        "NashotahTC9-22210.JPG",
+        "NashotahTC9-22213.JPG",
+        "NashotahTC9-22214.JPG",
+        "NashotahTC9-22216.JPG",
+        "NashotahTC9-22220.JPG",
+        "NashotahTC9-22221.JPG",
+        "NashotahTC9-22224.JPG",
+        "NashotahTC9-22228.JPG",
+        "NashotahTC9-22232.JPG",
+        "NashotahTC9-22233.JPG",
+        "NashotahTC9-22234.JPG",
+        "NashotahTC9-22235.JPG",
+        "NashotahTC9-22240.JPG",
+        "NashotahTC9-22241.JPG",
+        "NashotahTC9-22242.JPG",
+        "NashotahTC9-22244.JPG",
+        "NashotahTC9-22245.JPG",
+        "NashotahTC9-22246.JPG",
+        "NashotahTC9-22249.JPG",
+        "NashotahTC9-22250.JPG",
+        "NashotahTC9-22253.JPG",
+        "NashotahTC9-22256.JPG",
+        "NashotahTC9-22259.JPG",
+        "NashotahTC9-22261.JPG",
+        "NashotahTC9-22262.JPG",
+        "NashotahTC9-22263.JPG",
+        "NashotahTC9-22265.JPG",
+        "NashotahTC9-22266.JPG",
+        "NashotahTC9-22269.JPG",
+        "NashotahTC9-22271.JPG",
+        "NashotahTC9-22272.JPG",
+        "NashotahTC9-22275.JPG",
+        "NashotahTC9-22276.JPG",
+        "NashotahTC9-22278.JPG",
+        "NashotahTC9-22280.JPG",
+        "NashotahTC9-22281.JPG",
+        "NashotahTC9-22282.JPG",
+        "NashotahTC9-22285.JPG",
+        "NashotahTC9-22287.JPG",
+        "NashotahTC9-22288.JPG",
+        "NashotahTC9-22292.JPG",
+        "NashotahTC9-22293.JPG",
+        "NashotahTC9-22294.JPG",
+        "NashotahTC9-22295.JPG",
+        "NashotahTC9-22296.JPG",
+        "NashotahTC9-22297.JPG",
+        "NashotahTC9-22299.JPG",
+        "NashotahTC9-22300.JPG",
+        "NashotahTC9-22308.JPG",
+        "NashotahTC9-22309.JPG",
+        "NashotahTC9-22311.JPG",
+        "NashotahTC9-22312.JPG",
+        "NashotahTC9-22313.JPG",
+        "NashotahTC9-22314.JPG",
+        "NashotahTC9-22316.JPG",
+        "NashotahTC9-22317.JPG",
+        "NashotahTC9-22318.JPG",
+        "NashotahTC9-22319.JPG",
+        "NashotahTC9-22320.JPG",
+        "NashotahTC9-22321.JPG",
+        "NashotahTC9-22323.JPG"
+    ],
+    [
+        "2022 Raffle Party",
+        "DSCN0412.JPG",
+        "DSCN0414.JPG",
+        "DSCN0415.JPG",
+        "DSCN0417.JPG",
+        "DSCN0419.JPG",
+        "DSCN0420.JPG",
+        "DSCN0422.JPG",
+        "DSCN0423.JPG",
+        "DSCN0425.JPG",
+        "DSCN0426.JPG",
+        "DSCN0433.JPG",
+        "DSCN0434.JPG",
+        "DSCN0435.JPG",
+        "DSCN0436.JPG",
+        "DSCN0437.JPG",
+        "DSCN0438.JPG",
+        "DSCN0439.JPG",
+        "DSCN0440.JPG",
+        "DSCN0441.JPG",
+        "DSCN0442.JPG",
+        "DSCN0443.JPG",
+        "DSCN0444.JPG",
+        "DSCN0445.JPG",
+        "DSCN0446.JPG",
+        "DSCN0447.JPG",
+        "DSCN0448.JPG",
+        "DSCN0449.JPG",
+        "DSCN0450.JPG",
+        "DSCN0451.JPG",
+        "DSCN0452.JPG",
+        "DSCN0453.JPG",
+        "DSCN0454.JPG",
+        "DSCN0456.JPG",
+        "DSCN0457.JPG",
+        "DSCN0458.JPG",
+        "DSCN0459.JPG",
+        "DSCN0460.JPG",
+        "DSCN0462.JPG",
+        "DSCN0463.JPG",
+        "DSCN0464.JPG",
+        "DSCN0465.JPG",
+        "DSCN0467.JPG",
+        "DSCN0468.JPG",
+        "DSCN0469.JPG",
+        "DSCN0470.JPG",
+        "DSCN0471.JPG",
+        "DSCN0472.JPG",
+        "DSCN0473.JPG",
+        "DSCN0474.JPG",
+        "DSCN0476.JPG",
+        "DSCN0478.JPG",
+        "DSCN0481.JPG",
+        "DSCN0487.JPG",
+        "DSCN0488.JPG",
+        "DSCN0489.JPG",
+        "DSCN0490.JPG",
+        "DSCN0491.JPG",
+        "DSCN0493.JPG",
+        "DSCN0494.JPG",
+        "DSCN0495.JPG",
+        "DSCN0497.JPG",
+        "DSCN0498.JPG",
+        "DSCN0499.JPG",
+        "DSCN0500.JPG",
+        "DSCN0502.JPG",
+        "DSCN0503.JPG",
+        "DSCN0504.JPG",
+        "DSCN0506.JPG",
+        "DSCN0507.JPG",
+        "DSCN0508.JPG",
+        "DSCN0510.JPG",
+        "DSCN0511.JPG",
+        "DSCN0514.JPG",
+        "DSCN0516.JPG",
+        "DSCN0517.JPG",
+        "DSCN0518.JPG",
+        "DSCN0519.JPG",
+        "DSCN0520.JPG",
+        "DSCN0522.JPG",
+        "DSCN0524.JPG",
+        "DSCN0525.JPG",
+        "DSCN0529.JPG",
+        "DSCN0535.JPG",
+        "DSCN0536.JPG",
+        "DSCN0538.JPG",
+        "DSCN0540.JPG",
+        "DSCN0541.JPG",
+        "DSCN0542.JPG",
+        "DSCN0543.JPG",
+        "DSCN0544.JPG",
+        "DSCN0545.JPG",
+        "DSCN0546.JPG",
+        "DSCN0547.JPG",
+        "DSCN0548.JPG",
+        "DSCN0549.JPG",
+        "DSCN0550.JPG",
+        "DSCN0551.JPG",
+        "DSCN0552.JPG",
+        "DSCN0553.JPG",
+        "DSCN0555.JPG",
+        "DSCN0556.JPG",
+        "DSCN0557.JPG",
+        "DSCN0558.JPG",
+        "DSCN0559.JPG",
+        "DSCN0560.JPG",
+        "DSCN0561.JPG",
+        "DSCN0564.JPG",
+        "DSCN0565.JPG",
+        "DSCN0566.JPG",
+        "DSCN0571.JPG",
+        "DSCN0573.JPG",
+        "DSCN0574.JPG",
+        "DSCN0575.JPG",
+        "DSCN0577.JPG",
+    ],
 ];
 
 function viewPhoto(array, count) {
     photoGallery.innerHTML = "";
-    
+
     const headerCol = document.createElement('div');
     headerCol.setAttribute('class', 'col-6');
     let header = document.createElement('p');
@@ -478,7 +740,7 @@ function viewPhoto(array, count) {
     prev.setAttribute('src', 'images/prev-btn.gif');
     prev.setAttribute('id', 'prevBtn');
     prevCol.addEventListener('click', () => {
-        if(!(count <= 1)) {
+        if (!(count <= 1)) {
             count--;
             header.innerHTML = `Image ${count} of ${array.length}`;
             currentImg.setAttribute('src', `images/${array[0]}/${array[count]}`);
@@ -492,7 +754,7 @@ function viewPhoto(array, count) {
     next.setAttribute('src', 'images/next-btn.gif');
     next.setAttribute('id', 'nextBtn');
     nextCol.addEventListener('click', () => {
-        if(!(count >= array.length - 1)) {
+        if (!(count >= array.length - 1)) {
             count++;
             header.innerHTML = `Image ${count} of ${array.length - 1}`;
             currentImg.setAttribute('src', `images/${array[0]}/${array[count]}`);
@@ -505,34 +767,34 @@ function viewPhoto(array, count) {
     photoGallery.appendChild(prevCol);
     photoGallery.appendChild(imagCol);
     photoGallery.appendChild(nextCol);
-    
+
 }
 
 function createGallery(arrayName) {
     photoGallery.innerHTML = "";
-    for(array of allPhotos) {
+    for (array of allPhotos) {
         if (array[0] === arrayName) {
             let count = 0;
-            for(photo of array) {
-                if(count === 0) {
+            for (photo of array) {
+                if (count === 0) {
                     galleryHeader.innerHTML = array[0];
                     count++;
                 } else {
-                const imageCol = document.createElement('div');
-                imageCol.setAttribute('class', 'col-md-4');
+                    const imageCol = document.createElement('div');
+                    imageCol.setAttribute('class', 'col-md-4');
 
-                const image = document.createElement('img');
-                image.setAttribute('src', `images/${array[0]}/${array[count]}`);
-                image.setAttribute('id', `${count}`);
-                image.addEventListener('click', () => {
-                    viewPhoto(array, image.id);
-                })
+                    const image = document.createElement('img');
+                    image.setAttribute('src', `images/${array[0]}/${array[count]}`);
+                    image.setAttribute('id', `${count}`);
+                    image.addEventListener('click', () => {
+                        viewPhoto(array, image.id);
+                    })
 
-                imageCol.appendChild(image);
+                    imageCol.appendChild(image);
 
-                photoGallery.appendChild(imageCol);
+                    photoGallery.appendChild(imageCol);
 
-                count++;
+                    count++;
                 }
             }
 
@@ -551,15 +813,15 @@ container.setAttribute('id', 'photoGalleryContainer');
 const row = document.createElement('div');
 row.setAttribute('class', 'row');
 
-for(photoArray of allPhotos) {
+for (photoArray of allPhotos) {
     const col = document.createElement('div');
     col.setAttribute('class', 'col-md-4');
 
     const photoButton = document.createElement('button');
     photoButton.setAttribute('class', 'photoButton');
     photoButton.innerHTML = photoArray[0];
-    
-    photoButton.addEventListener('click', function(e) {
+
+    photoButton.addEventListener('click', function (e) {
         createGallery(this.innerHTML);
     });
 
