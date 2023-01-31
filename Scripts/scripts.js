@@ -80,8 +80,9 @@ function createNavs() {
     brand.setAttribute('class', 'navbar-brand');
     brand.setAttribute('href', 'index.html');
     const brandImg = document.createElement('img');
-    brandImg.src = 'images/logo-the-turkey-club.jpg';
+    brandImg.src = 'images/22-TC-logo.png';
     brandImg.alt = 'Turkey Club Logo';
+    brandImg.setAttribute('id', 'nav-logo');
     brand.appendChild(brandImg);
     topNav.appendChild(brand);
 

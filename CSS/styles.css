@@ -109,6 +109,12 @@ body {
     border-bottom: solid white 1px;
 }
 
+#nav-logo {
+    height: 100px;
+    width: 100px;
+    object-fit: fill;
+}
+
 /*******************
      HOME
 *******************/
