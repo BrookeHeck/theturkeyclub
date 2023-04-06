@@ -35,7 +35,8 @@ const countyArray = [
     [
         'Ozaukee County',
         'Full Shelf Food Pantry',
-        'Germantown Food Pantry/St. Bonifice Church'
+        'Germantown Food Pantry/St. Bonifice Church',
+        'Family Sharing of Ozaukee County'
     ],
     [
         'Washington County',

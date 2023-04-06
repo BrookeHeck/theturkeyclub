@@ -101,17 +101,33 @@ let contributors =
     ["Wisconsin State Fair", "https://wistatefair.com/fair/home/"]
   ];
 
-  let corporateContributors = [
-    ["Eagle Printing & Graphics", "https://www.eagleprinter.com/"],
-    ["Eaton Corporation", "https://www.eaton.com/us/en-us.html"],
-    ["Green Bay Packers", 'https://www.packers.com/'],
-    ["Hunger Task Force", "https://www.hungertaskforce.org/"],
-    ["I.A.G. Wealth Partners", "https://iagwealthpartners.com/"],
-    ["Kwik Trip", "https://www.kwiktrip.com/"],
-    ["Roundy's / Kroger", "https://www.kroger.com/"]
-  ];
+let corporateContributors = [
+  ["Eagle Printing & Graphics", "https://www.eagleprinter.com/"],
+  ["Eaton Corporation", "https://www.eaton.com/us/en-us.html"],
+  ["Green Bay Packers", 'https://www.packers.com/'],
+  ["Hunger Task Force", "https://www.hungertaskforce.org/"],
+  ["I.A.G. Wealth Partners", "https://iagwealthpartners.com/"],
+  ["Kwik Trip", "https://www.kwiktrip.com/"],
+  ["Roundy's / Kroger", "https://www.kroger.com/"]
+];
 
-
+const holeSponsors2023 = [
+  ["Union Home Mortgage", "https://www.uhm.com/branches/union-home-mortgage-hq/"],
+  ["Earth Augering Services", "#"],
+  ["Eagle Grinding & Plating", "https://eaglegrinding.com/"],
+  ["Investors Advisory Group", "https://iagwealthpartners.com/"],
+  ["McBob's Pub & Grill", "https://mcbobs.com/"],
+  ["O'Brien's Pub", "http://www.obriens-irishpub.com/"],
+  ["Zimmerman Architectural Studio's", "https://zastudios.com/"],
+  ["Zaffiro's Pizza", "https://www.zaffirospizza.com/"],
+  ["CRG Services Inc", "https://crgservices.com/"],
+  ["Riverwood Legal & Accounting Services", "https://riverwoodlas.com/"],
+  ["Feerick Funeral Home", "https://www.feerickfuneralhome.com/"],
+  ["Alarm Sales & Service", "#"],
+  ["Johnson Financial Group", "https://www.johnsonfinancialgroup.com/locations/wi/racine/downtown-racine?y_source=1_NzQ0MzgyNS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D"],
+  ["Dana's Field House", "https://www.facebook.com/people/Danas-Fieldhouse/100063763711132/"],
+  ["Eagle Printing & Graphics", "https://www.eagleprinter.com/"]
+]
 
 function createContributor(contributorArray) {
   const contributor = document.createElement('a');
@@ -148,9 +164,22 @@ function createContributorRow(contributorArray) {
   return row;
 }
 
-//Corporate Contributors
 const contributorPageContainer = document.querySelector('#contributorGrid');
 
+// 2023 Dana's Golf Outing Hole Sponsors
+const golfContainer = document.createElement('div');
+golfContainer.classList.add('container', 'golfContainer');
+
+const golfHeader = document.createElement('h2');
+golfHeader.setAttribute('class', 'golfHeader');
+golfHeader.innerHTML = '2023 Dana\'s Golf Outing Hole Sponsors';
+golfContainer.appendChild(golfHeader);
+
+const golfRow = createContributorRow(holeSponsors2023);
+golfContainer.appendChild(golfRow);
+contributorPageContainer.appendChild(golfContainer);
+
+//Corporate Contributors
 const corporateContainer = document.createElement('div');
 corporateContainer.classList.add('container', 'contributorContainer');
 
